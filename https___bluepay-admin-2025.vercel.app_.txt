@@ -1,0 +1,29 @@
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;BluePay 2025 - Buy Airtime, Data &amp; Pay Bills&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;BluePay 2025 - Get your account ready and instantly start buying, selling airtime and data online and start paying all your bills in cheaper price.&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;BluePay&quot; /&gt;
+
+    &lt;meta property=&quot;og:title&quot; content=&quot;BluePay 2025 - Buy Airtime, Data &amp; Pay Bills&quot; /&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Get your account ready and instantly start buying, selling airtime and data online and start paying all your bills in cheaper price.&quot; /&gt;
+    &lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;/lovable-uploads/55c3f237-e0a0-487d-8665-b3f3c186b081.png&quot; /&gt;
+
+    &lt;meta name=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
+    &lt;meta name=&quot;twitter:title&quot; content=&quot;BluePay 2025 - Buy Airtime, Data &amp; Pay Bills&quot; /&gt;
+    &lt;meta name=&quot;twitter:description&quot; content=&quot;Get your account ready and instantly start buying, selling airtime and data online and start paying all your bills in cheaper price.&quot; /&gt;
+    &lt;meta name=&quot;twitter:image&quot; content=&quot;/lovable-uploads/55c3f237-e0a0-487d-8665-b3f3c186b081.png&quot; /&gt;
+    &lt;script type=&quot;module&quot; crossorigin src=&quot;/assets/index-BRiEVPdV.js&quot;&gt;&lt;/script&gt;
+    &lt;link rel=&quot;stylesheet&quot; crossorigin href=&quot;/assets/index-C6-eGp52.css&quot;&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div id=&quot;root&quot;&gt;&lt;/div&gt;
+    &lt;!-- IMPORTANT: DO NOT REMOVE THIS SCRIPT TAG OR THIS VERY COMMENT! --&gt;
+    &lt;script src=&quot;https://cdn.gpteng.co/gptengineer.js&quot; type=&quot;module&quot;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
